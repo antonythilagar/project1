@@ -1,9 +1,0 @@
-#!/bin/sh
- 
-ssh developers@10.15.10.29 <<EOF
-  cd /home/developers/practice/git/project1/project1
-  git pull
-  npm install --production
-  forever restartall
-  exit
-EOF						
