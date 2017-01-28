@@ -1,0 +1,28 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Hello World..! I am Antony... Thank You...!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonythilagar/project1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonythilagar/project1/issues"
+  },
+  "homepage": "https://github.com/antonythilagar/project1#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0",
+    "supertest": "^2.0.1"
+  }
+}
